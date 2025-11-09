@@ -82,4 +82,73 @@ most orgs need domain specific benchmarking
 
 ELO base evaluations becomibg popular
 	nemo guardrails, aviary, etc
+
+-----------=======
+==============================
+===============================================
+LLMs
+	search summarize generate classify rewrite cluster extract
 	
+
+	
+LangChain
+	data aware - link LLM to other data sources - files syss, databases, apis
+	agentic - create agents . decide what how todo
+	chains - output of 1 llm into another llm. diff tasks, diff inputs
+	
+	Components
+		schema
+		models
+		prompts
+		indexes
+		memory
+		chains
+		agents
+	
+	Use cases
+	personanl assistant
+	quest answers over docs
+	chatbots
+	querying tabular data
+	interact with apis
+	exteraction
+	evaluation
+	summarization 
+	
+Models Module
+	LLMs
+		takes prompts as input to generatea correspoind completions
+		prompts lenght and specificity influence completions focus, broader -> more creative
+		
+		pre trained openai, cohere, anthropic
+		open s model hub - hugface.
+		open s llms - stab diff, bloom 
+		
+	Chat 
+	Text Embeddin models
+	
+Hugging face
+	huggingface.co/spaces
+		applications
+		
+LangChain Modules
+	Models
+		LLMS, chat, text embedding
+	promot 
+	memory indexes
+	chains
+	agents 
+	callbacks
+	
+	
+Hugging Face
+	streamlit 
+	gradio 
+	docker 
+	static 
+	
+	
+
+	
+Chat Models 
+
