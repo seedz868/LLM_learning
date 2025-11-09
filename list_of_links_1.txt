@@ -400,3 +400,81 @@ file:///C:/Users/seedz/Downloads/SSRN-id4543807.pdf
 
 Charles Frye on Full Stack Deep Learning - Weaviate Podcast #57!
 https://www.youtube.com/watch?v=TztVMhZxORQ&ab_channel=Weaviate%E2%80%A2VectorDatabase
+
+
+
+---------------- MORE NOTES ____
+
+Here are some coding tutorials on large language models (LLMs): ðŸ§µ1/N
+
+https://t.co/JX9PjzRHuv
+
+https://t.co/eEsIWC3U3b
+
+https://t.co/xCiuodyXPZ
+
+https://t.co/u9c43Z6bC0
+
+https://t.co/bZ13Kdnsij
+
+https://t.co/Uod2KxQKJS
+
+https://t.co/1OccB1rZem
+
+https://t.co/B1Bv3fcJOU
+
+https://www.youtube.com/watch?v=PE0DQlQItro
+
+
+--- LLM cohere Andrew ng
+https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/
+
+
+-- count and say
+https://www.youtube.com/watch?v=7HE7r3CW-Ko
+
+https://bmmahmud.medium.com/facebook-interview-questions-leetcode-34-medium-60f311b3f447
+
+https://leetcode.com/problem-list/top-facebook-questions/?status=NOT_STARTED&page=1
+
+
+
+LLM in prod
+https://www.youtube.com/watch?v=DZgXln3v85s
+
+
+
+
+Genpact
+
+reco eng mlops
+https://www.youtube.com/watch?v=lh9CNRDqKBk
+
+
+Leet code
+https://www.youtube.com/watch?v=8wysIxzqgPI&t=14s
+
+
+RL paper
+https://twitter.com/StephenLCasper/status/1686036515653361664
+
+
+knn from scratch
+https://nycdatascience.com/blog/student-works/machine-learning/knn-classifier-from-scratch-numpy-only/
+
+gen ai
+https://www.youtube.com/watch?v=SOqV47YPKw0
+
+
+
+
+array
+string
+dy prog
+tree
+bin search/
+design
+heap
+graphg
+recur
+
