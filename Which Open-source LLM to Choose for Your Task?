@@ -1,0 +1,85 @@
+==============================================
+Which Open-source LLM to Choose for Your Task?
+
+ELO ratings.
+LMSYS ORG
+ranking LLMs' performance
+
+Types of Augmentation
+1 instruction tuning
+2 chat tuning
+3 long context models
+4 domain/task adaptation
+
+
+=================================================
+LLM Starter Pack: A Pragmatic Guide to Success with the Large Language Models
+
+superGlue score
+
+
+bench marks may have been used in training ,be careful
+
+==================================================
+
+​LLMs in Production - A Costly Dilemma!
+
+pillars of success
+	is model generalizable
+	models should be evaluable
+	deployment should be cost optimal
+	
+Gemeralizatiopn
+	knowledge retrieval
+	recommender system
+	cross lingual translation
+	autonomous/ai agents/
+
+Deciding foundational model
+	num of parameters
+	size of context window
+	training type
+	inference speed
+	cost
+	fine tunability
+	data security
+
+Model selection
+	is open source/proprietry
+	num of parameters 
+	is training data available
+	what is inference speed/latency
+	cost of inference of model
+	is model fine tunable
+	cost of fine tuning
+	what is size of context window of model
+	fine tuning is 2-4x as expe as inference
+	
+Costs
+	infra
+	hidden costs
+		
+do we promp engineer or fine tune?
+	promp eng: for domain dataptation, embedding based search.
+	fine tuning: categorization and filtering
+	not a guarantee tho
+	
+Context Windows
+	Longer - handle complex longer inputs, less change of hallucinations
+	Smaller - require clear concise prompts. easy to write prompts. low latency, faster iteration. 
+
+Costs 
+	Upfront - context window, promting/fine tuning/ data, infra, scalability
+	Hidden  - model drift/prompt drift, hardware costs, compliance, people, reliability
+	
+Benchmarking system
+	Scalability: scale ot large number of models when not feasible to collect sufficient data for all possible model pairs
+	Incrementality: System should be able to evaluate a new model using small number of trials
+	Unique order: system provide a unique order for all models
+
+most orgs need domain specific benchmarking
+	openAI evals, HELM, evals-harness
+
+ELO base evaluations becomibg popular
+	nemo guardrails, aviary, etc
+	
