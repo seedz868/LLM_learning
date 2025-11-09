@@ -194,3 +194,209 @@ file:///C:/Users/seedz/Downloads/SSRN-id4543807.pdf
 
 Charles Frye on Full Stack Deep Learning - Weaviate Podcast #57!
 https://www.youtube.com/watch?v=TztVMhZxORQ&ab_channel=Weaviate%E2%80%A2VectorDatabase
+
+
+-- UPDATE - check for dupes - Nov 2025
+
+LLM WOrk
+
+----------------------------------------------------------
+----------------------------------------------------------
+High
+https://blog.briankitano.com/llama-from-scratch/
+
+
+LANG CHAIN
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LLM Starter Pack: A Pragmatic Guide to Success with the Large Language Models
+https://www.youtube.com/watch?v=u49KdmdPulc&ab_channel=MLExplained-AggregateIntellect-AI.SCIENCE
+
+​​
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Which Open-source LLM to Choose for Your Task?
+https://www.youtube.com/watch?v=6PPZwwgfbMY&ab_channel=MLExplained-AggregateIntellect-AI.SCIENCE
+
+
+Getting Started With Embeddings
+https://huggingface.co/blog/getting-started-with-embeddings
+
+
+KerasNLP starter notebook Contradictory DearWatson
+https://www.kaggle.com/code/alexia/kerasnlp-starter-notebook-contradictory-dearwatson
+
+
+
+How Diffusion Models Work
+https://www.deeplearning.ai/short-courses/how-diffusion-models-work/?utm_campaign=May%20Short%20Course%20Launch&utm_content=256199220&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456
+
+
+How Diffusion Models Work
+https://www.deeplearning.ai/short-courses/how-diffusion-models-work/?utm_campaign=May%20Short%20Course%20Launch&utm_content=253535146&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456
+
+
+Andrej Karpathy GPT - Advice for building AI agents
+https://www.youtube.com/watch?v=aGV3aycnwhA
+
+
+LLM Bootcamp - Spring 2023
+https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/
+
+
+
+Let's build GPT: from scratch, in code, spelled out.
+https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=12&t=1800s&ab_channel=AndrejKarpathy
+
+
+Pair Programming with a Large Language Model
+https://www.deeplearning.ai/short-courses/
+
+
+https://learn.deeplearning.ai/login?redirect_course=chatgpt-building-system
+
+
+
+Building Systems with the ChatGPT API
+https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/?utm_campaign=May%20Short%20Course%20Launch&utm_content=251011748&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456
+
+
+CS25 I Stanford Seminar - Transformers United 2023: Introduction to Transformers w/ Andrej Karpathy
+
+https://www.youtube.com/watch?v=XfpMkf4rD6E&ab_channel=StanfordOnline
+
+
+Visual Prompting Livestream With Andrew Ng
+https://www.youtube.com/watch?v=FE88OOUBonQ&ab_channel=LandingAI
+
+Sparks of AGI: early experiments with GPT-4
+
+https://www.youtube.com/watch?v=qbIk7-JPB2c&ab_channel=SebastienBubeck
+
+https://explosion.ai/blog/against-llm-maximalism
+
+
+On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?
+https://dl.acm.org/doi/pdf/10.1145/3442188.3445922
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://blog.replit.com/llm-training
+
+
+GPT-4 - How does it work, and how do I build apps with it? - CS50 Tech Talk
+https://www.youtube.com/watch?v=vw-KWfKwvTQ&ab_channel=CS50
+
+
+https://eugeneyan.com/writing/more-patterns/
+
+----------------------------------------------------------
+​----------------------------------------------------------
+Med
+
+
+https://www.deeplearning.ai/the-batch/the-voice-cloning-tools-used-to-make-ai-generated-songs/?utm_campaign=The%20Batch&utm_content=247049477&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456
+
+
+https://spectrum.ieee.org/large-language-models-size
+
+https://garymarcus.substack.com/p/elegant-and-powerful-new-result-that
+
+LLMs in Production - A Costly Dilemma!
+https://www.youtube.com/watch?v=Hne95kH5hxk&ab_channel=MLExplained-AggregateIntellect-AI.SCIENCE
+
+
+GIT - llm-pipeline-examples
+https://github.com/GoogleCloudPlatform/llm-pipeline-examples
+
+
+In a new preprint, we assess LLMs’ in-context learning abilities for *abstract* non-linguistic patterns—& explore how this might be useful for robotics.
+https://twitter.com/suvir_m/status/1679034225201393664
+
+
+Like Diffusion but Faster
+https://www.deeplearning.ai/the-batch/the-paella-model-for-fast-image-generation-explained/?utm_campaign=The%20Batch&utm_content=253246575&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783
+
+
+From Arduinos to LLMs: Exploring the Spectrum of ML // Soham Chatterjee // MLOps Podcast 
+https://www.youtube.com/watch?v=Drq5ob0tUF0&ab_channel=MLOps.community
+
+
+4 Must-Have Tools To Build Killer LLM Apps | LangChain, LlamaIndex, and More!
+https://www.youtube.com/watch?v=YsqEMRwEAoQ&ab_channel=SandraKublik
+
+
+Get a clue, says panel about buzzy AI tech: It’s being ‘deployed as surveillance’
+
+https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/?guce_referrer=aHR0cHM6Ly90LmNvLw&guce_referrer_sig=AQAAAAj1hjhckgBueeit8OI1VMeSH5BxnHKIIzTdCWk75G4VFgAClFYSJhtXio677XZk7ssvqrzpGJjPNH2BTbTfX30viS07VcCPn8koZrOf1thZ6lgd_iA5zLs5jieO7En27AGHEFo6ZP2Q_8lRq2Sb9JYO3FXDB_L2_5wHJzL5bkTr&guccounter=2
+
+We investigate the limits of Transformers *empirically* and *theoretically* on compositional tasks🔥
+https://twitter.com/nouhadziri/status/1663936258991853575
+
+
+Generative AI Strategy
+https://huyenchip.com/2023/06/07/generative-ai-strategy.html
+
+
+
+https://twitter.com/svpino/status/1663896432028401664
+
+https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/
+
+https://magnusvinding.com/2017/12/16/a-contra-ai-foom-reading-list/
+
+On the Planning Abilities of Large Language Models -- A Critical Investigation
+https://arxiv.org/abs/2305.15771
+
+
+MAS.S68: Generative AI for Constructive Communication
+Evaluation and New Research Methods
+https://ai4comm.media.mit.edu/
+
+
+
+https://stablediffusionweb.com/ControlNet
+https://softwarekeep.com/help-center/how-to-use-stable-diffusion-lora-models
+
+
+https://www.greataiprompts.com/guide/how-to-use-img2img-in-stable-diffusion/?utm_content=expand_article
+
+https://huggingface.co/spaces/fffiloni/stable-diffusion-img2img
+
+
+Coding Challenge #40.3: TF-IDF
+
+https://www.youtube.com/watch?v=RPMYV-eb6lI&ab_channel=TheCodingTrain
+
+
+LLM Deployment with NLP Models // Meryem Arik // LLMs in Production Conference Lightning Talk 2
+
+https://www.youtube.com/watch?v=BN-txmqGxvQ&ab_channel=MLOps.community
+
+
+Efficient Methods for Natural Language Processing: A Survey
+https://arxiv.org/pdf/2209.00099.pdf
+
+Prompt Engineering Guide
+https://www.promptingguide.ai/
+
+
+https://github.com/brexhq/prompt-engineering
+
+
+
+A Cookbook of Self-Supervised Learning
+https://arxiv.org/abs/2304.12210
+
+----------------------------------------------------------
+----------------------------------------------------------
+Low
+
+
+https://blog.eleuther.ai/transformer-math/
+
+https://sketchingthefuture.github.io/
+
+file:///C:/Users/seedz/Downloads/SSRN-id4543807.pdf
+
+Charles Frye on Full Stack Deep Learning - Weaviate Podcast #57!
+https://www.youtube.com/watch?v=TztVMhZxORQ&ab_channel=Weaviate%E2%80%A2VectorDatabase
